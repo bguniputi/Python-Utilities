@@ -1,0 +1,7 @@
+{
+    "sender":"<<Sender_Email_Address>>",
+    "recevier":["<<Recievers Email Address>>"],
+    "smtp":"<<SMTP IP>>",
+    "ProcessName":"<<Process Name>>",
+    "Limit": <<Threshold limit to send alert>>
+}

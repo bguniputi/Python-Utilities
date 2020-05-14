@@ -1,0 +1,9 @@
+{
+    "sender":"<<Sender_Email_Address>>",
+    "recevier":["<<Multiple Receivers Email Address>>"],
+    "smtp":"<<SMTP IP/FQDN>>",
+    "WebSiteDetail":{
+        "Name":"<<Website_Name>>",
+        "URL":"<<URL>>"
+    }
+}
